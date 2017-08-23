@@ -1,0 +1,24 @@
+Difference between JDK ,JRE and JVM
+
+JDK : Java Development Kit
+           
+   Jdk consists of development tools to provide an environment to develop java programs and it also 
+      consists of JRE to execute the program.
+   By using Jdk we can develop and compile the program .
+   
+           
+
+JRE : Java Run-Time Environment
+           
+   Jre consists of libraries and Jvm.
+   It provides an environment to run a program. 
+   It is the implementation of Jvm. 
+   It contains set of libraries + other files that Jvm uses at runtime.
+
+JVM : Java Virtual Machine 
+
+   Jvm uses libraries from JRE to run the program .
+   Jvm converts normal language code to machine language code.
+   To execute a program in any platform JVM is needed.
+   Jvm Loads the code ,Verifies the code, Executes the code.
+   jvm reads and executes line by line
